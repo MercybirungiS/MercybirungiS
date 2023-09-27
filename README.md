@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently **Honing my skills .The field of technology is dynamic, and I'm committed to continuous learning. Staying updated with the latest trends in machine learning and software development allows me to deliver cutting-edge solutions.**
 
-- Some of my software and data science skills **Python, Kotlin, Flutter, Node.js ,AWS , Pandas ,**
+- Some of my software and data science skills are  **Python, Kotlin, Flutter, Node.js ,AWS , Pandas , Data Visulization, Machine learning ,Data structures and algorithms **
 
 - 💬 Ask me about anything **Software or Data Science**
 
