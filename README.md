@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mercy Birungi</h1>
-<h3 align="center">A passionate Software Engineer and Data Scientist that enjoys bridging the world of Data Science and Software Development for Impactful Solutions .</h3>
+<h3 align="centre">A passionate Software Engineer and Product Manager who enjoys bridging the world of Product and Software Development for Impactful Solutions .</h3>
 
-- 🌱 I’m currently **Honing my skills .The field of technology is dynamic, and I'm committed to continuous learning. Staying updated with the latest trends in machine learning and software development allows me to deliver cutting-edge solutions.**
+- 🌱 I’m currently **Honing my skills .Technology is dynamic, and I'm committed to continuous learning. Staying updated with the latest trends in machine learning and product management allows me to deliver cutting-edge solutions.**
 
-- Some of my software and data science skills are  **Python, Kotlin, Flutter, Node.js ,AWS , Pandas , Data Visulization, Machine learning ,Data structures and algorithms **
+- Some of my skills are  **Python, Kotlin, Flutter, and Node. js, AWS, Pandas, Data Visualization, Machine learning, Data structures and algorithms **
 
 - 💬 Ask me about anything **Software or Data Science**
 
